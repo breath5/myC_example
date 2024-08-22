@@ -17,7 +17,7 @@ int main(void) {
     printf("%x\n", BYTE2(value));
     printf("%x\n", BYTE3(value));
     printf("%x\n", value);
-    printf("%d\n", value);
+//    printf("%d\n", value);
     printf("Hello, World!\n");
     return 0;
 }
